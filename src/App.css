@@ -1,0 +1,18 @@
+/* app.css */
+.item-list {
+    list-style-type: none;
+    display: flex;
+    justify-content:start; /* Alineación horizontal */
+    padding: 0; /* Elimina el relleno predeterminado de la lista */
+  }
+  
+  .item-list-item {
+    margin: 10px; /* Ajusta los márgenes según tus preferencias */
+    text-align: center;
+  }
+  
+  .item-list-image {
+    max-width: 150px;
+    max-height: 150px;
+  }
+  
